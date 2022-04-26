@@ -31,4 +31,12 @@ THEN I am again presented with current and future conditions for that city
 
 The following image demonstrates the application functionality:
 
-![weather dashboard demo](./images/06-server-side-apis-homework-demo.png)
+![weather dashboard demo](./Assets/images/06-server-side-apis-homework-demo.png)
+
+
+## Website Link
+https://xallver.github.io/JS-Weather-Dashboard/
+
+
+## Repo Link
+https://github.com/Xallver/JS-Weather-Dashboard
